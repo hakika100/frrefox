@@ -3681,6 +3681,8 @@ reaction1.on("collect", r => {
 『-rules ====> يعرض لك قوانين السيرفر
 『-v2min ====> لصنع روم صوتي مؤقت
 『-inv ====> لدعوة البوت الى سيرفرك
+『 لدعوة البوت
+https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot
 
 **
 `)
@@ -3739,6 +3741,8 @@ reaction2.on("collect", r => {
 『-unmutechannel ====> فتح الشات
 『-ct <name> ====> انشاء شات
 『-cv <name> ====> انشاء رووم فويس
+『 لدعوة البوت
+https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot 
 
 **
 `)
@@ -3777,7 +3781,10 @@ reaction3.on("collect", r => {
 『-لعبة مريم ====> مريم
 『-عواصم
 『-يعطيك عقابات قاسية ====> عقاب
-『 By ====> WESO#0001
+『 لدعوة البوت
+https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot
+『 لدعوة البوت
+
 `)
    message.author.sendEmbed(embed)
    message.reply('تم ارسالك بلخاص')
