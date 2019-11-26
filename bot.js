@@ -3682,7 +3682,7 @@ reaction1.on("collect", r => {
 『-v2min ====> لصنع روم صوتي مؤقت
 『-inv ====> لدعوة البوت الى سيرفرك
 『 لدعوة البوت
-https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot
+https://discordapp.com/api/oauth2/authorize?client_id=647429907676397569&permissions=8&scope=bot
 
 **
 `)
@@ -3742,8 +3742,7 @@ reaction2.on("collect", r => {
 『-ct <name> ====> انشاء شات
 『-cv <name> ====> انشاء رووم فويس
 『 لدعوة البوت
-https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot 
-
+https://discordapp.com/api/oauth2/authorize?client_id=647429907676397569&permissions=8&scope=bot
 **
 `)
    message.author.sendEmbed(embed)
@@ -3782,7 +3781,7 @@ reaction3.on("collect", r => {
 『-عواصم
 『-يعطيك عقابات قاسية ====> عقاب
 『 لدعوة البوت
-https://discordapp.com/api/oauth2/authorize?client_id=647146266198802442&permissions=8&scope=bot
+https://discordapp.com/api/oauth2/authorize?client_id=647429907676397569&permissions=8&scope=bot
 『 لدعوة البوت
 
 `)
