@@ -868,7 +868,7 @@ client.on('message', PuP => {
 
 client.on('ready', function(){
     var ms = 10000 ;
-    var setGame = [' -help',`Im on ${client.guilds.size} servers`,`i help ${client.users.size} Members`,' 𝚂𝙿𝙰𝚁𝚃𝙰𝙽-𝚂𝚈𝚂𝚃𝙴𝙼 Is The Best ','Just Do It','welcome'];
+    var setGame = [' -help',`Im on ${client.guilds.size} servers`,`i help ${client.users.size} Members`,' 👑★Project Soon★👑 Is The Best ','a77777','lonly'];
     var i = -1;
     var j = 0;
     setInterval(function (){
